@@ -30,7 +30,7 @@ The analysis reveals **gaps in hospital participation and performance on health 
 ---
 
 ## **Tableau Dashboard**
-📊 **[Explore the Dashboard Here](#)** *(Insert actual Tableau Public link when available)*  
+📊 **[Explore the Dashboard Here](https://public.tableau.com/shared/C4YX7Z3ZT?:display_count=n&:origin=viz_share_link)**   
 The interactive **Tableau dashboard** built using this dataset includes:
 - **State-Level & Zip Code Drilldowns**:
   - Users can filter by **state → zip code → hospital details**
